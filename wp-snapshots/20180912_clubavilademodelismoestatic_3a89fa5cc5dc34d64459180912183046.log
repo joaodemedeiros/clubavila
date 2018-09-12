@@ -1,0 +1,80 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 12 September, 2018 6:33 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.42
+WORDPRESS:	4.9.8
+PHP INFO:	7.0.15 | SAPI: apache2handler
+SERVER:		Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/7.0.15 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 2MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+FILTERED: [] 
+RESPONSE: Ran from D:/xampp/mysql/bin/mysqldump.exe 
+TABLES: total:13 | filtered:0 | create:13 
+SQL CREATED: 20180912_clubavilademodelismoestatic_3a89fa5cc5dc34d64459180912183046_database.sql 
+SQL FILE SIZE: 1.99MB (2081694) 
+SQL FILE TIME: 2018-09-12 18:33:51 
+SQL RUNTIME: 1.36 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  D:/xampp/htdocs/clubavila2018 
+ARCHIVE FILE: 20180912_clubavilademodelismoestatic_3a89fa5cc5dc34d64459180912183046_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	45.15MB 
+STATS:	Dirs 353 | Files 2,308 
+SQL ADDED: 20180912_clubavilademodelismoestatic_3a89fa5cc5dc34d64459180912183046_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2661
+    [filename] => D:\xampp\htdocs\clubavila2018\wp-snapshots\tmp\20180912_clubavilademodelismoestatic_3a89fa5cc5dc34d64459180912183046_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 18.48MB 
+ARCHIVE RUNTIME: 69.12 sec. 
+MEMORY STACK: 2MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [D:/xampp/htdocs/clubavila2018/wp-snapshots/tmp/20180912_clubavilademodelismoestatic_3a89fa5cc5dc34d64459180912183046_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 1.99MB 
+Installer File: 472.52KB 
+Archive File: 18.48MB  
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 92.81 sec.
+PEAK PHP MEMORY USED: 4MB
+DONE PROCESSING => 20180912_clubavilademodelismoestatic 12 September, 2018 6:35 pm
+ 
